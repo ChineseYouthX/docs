@@ -9,7 +9,6 @@ category:
 
 ## 目录
 
-- [搭建前端环境](dev.md)
+- [搭建环境](dev.md)
 
-- [代码风格指南](styleGuide.md)
-
+- [风格指南](styleGuide.md)
