@@ -1,1 +1,0 @@
-import{_ as t,X as a,Y as s,Z as e,$ as c}from"./framework-b823b8b3.js";const r={},o=e("h1",{id:"风格指南",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#风格指南","aria-hidden":"true"},"#"),c(" 风格指南")],-1),n=[o];function _(d,i){return a(),s("div",null,n)}const h=t(r,[["render",_],["__file","styleGuide.html.vue"]]);export{h as default};
