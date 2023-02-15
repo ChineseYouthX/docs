@@ -11,19 +11,18 @@ author: ChineseYouthX
 date: 2023-02-14
 # 一个页面可以有多个分类
 category:
-  - 使用指南
+  - 前端
 # 一个页面可以有多个标签
 tag:
-  - 页面配置
-  - 使用指南
+  - 环境配置
 # 此页面会在文章列表置顶
 sticky: true
 # 此页面会出现在文章收藏中
 star: true
 # 你可以自定义页脚
-footer: 这是测试显示的页脚
+# footer: 这是测试显示的页脚
 # 你可以自定义版权信息
-copyright: 无版权
+# copyright: 无版权
 ---
 
 ## 安装 git
@@ -46,7 +45,7 @@ copyright: 无版权
 
 ::: info
 
-[cnpm](https://github.com/coreybutler/nvm-windows) 包管理工具。
+[cnpm]() 包管理工具。
 
 ```bash
 npm install -g cnpm
@@ -58,7 +57,7 @@ npm install -g cnpm
 
 ::: info
 
-[yarn](https://github.com/coreybutler/nvm-windows) 包管理工具。
+[yarn]() 包管理工具。
 
 ```bash
 npm install -g yarn
@@ -70,10 +69,26 @@ npm install -g yarn
 
 ::: info
 
-[pnpm](https://github.com/coreybutler/nvm-windows) 包管理工具。
+[pnpm]() 包管理工具。
 
 ```bash
 npm install -g pnpm
 ```
+
+:::
+
+## 安装 WebStorm
+
+::: info
+
+[WebStorm]() 前端开发IDE。
+
+:::
+
+## 安装 HBuilderX
+
+::: info
+
+[HBuilderX]() uni-app。
 
 :::

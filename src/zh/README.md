@@ -14,9 +14,9 @@ actions:
     link: /zh/guide/
 
 features:
-  - title: 前端开发环境
+  - title: 前端开发
     icon: config
-    details: 快速了解并配置前端开发环境
+    details: 我司前端开发相关文档
     link: /zh/frontEnd
 
   # - title: 幻灯片页面
