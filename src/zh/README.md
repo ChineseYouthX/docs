@@ -7,17 +7,22 @@ heroText: 文档库
 tagline: 一个简单的文档库做着简单记录
 actions:
   - text: 使用指南 💡
-    link: /zh/demo/
+    link: /zh/frontEnd/
     type: primary
 
-  - text: 文档
-    link: /zh/guide/
+  - text: 代码笔记
+    link: /zh/notes/
 
 features:
   - title: 前端开发
-    icon: config
+    icon: vue
     details: 我司前端开发相关文档
     link: /zh/frontEnd
+
+  - title: 代码笔记
+    icon: code
+    details: 工作、学习产生的代码笔记
+    link: /zh/notes
 
   # - title: 幻灯片页面
   #   icon: slides
@@ -100,7 +105,7 @@ features:
   #   link: https://theme-hope.vuejs.press/zh/guide/feature/
 
 copyright: false
-footer: 使用 <a href="https://theme-hope.vuejs.press/" target="_blank">VuePress Theme Hope</a> 主题 | MIT 协议, 版权所有 © 2023-present ChineseYouthX
+footer: 版权所有 © 2023-present ChineseYouthX
 ---
 
 <!-- 这是项目主页的案例。你可以在这里放置你的主体内容。 -->

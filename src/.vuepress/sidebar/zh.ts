@@ -17,6 +17,13 @@ export const zhSidebar = sidebar({
       link: "frontEnd/",
       children: "structure",
     },
+    {
+      icon: "code",
+      text: "代码笔记",
+      prefix: "notes/",
+      link: "notes/",
+      children: "structure",
+    },
     // {
     //   text: "文档",
     //   icon: "note",
