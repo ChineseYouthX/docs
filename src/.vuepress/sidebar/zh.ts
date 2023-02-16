@@ -4,14 +4,7 @@ export const zhSidebar = sidebar({
   "/zh/": [
     "",
     {
-      icon: "discover",
-      text: "演示",
-      prefix: "demo/",
-      link: "demo/",
-      children: "structure",
-    },
-    {
-      icon: "creative",
+      icon: "vue",
       text: "前端",
       prefix: "frontEnd/",
       link: "frontEnd/",
@@ -22,6 +15,13 @@ export const zhSidebar = sidebar({
       text: "代码笔记",
       prefix: "notes/",
       link: "notes/",
+      children: "structure",
+    },
+    {
+      icon: "discover",
+      text: "演示",
+      prefix: "demo/",
+      link: "demo/",
       children: "structure",
     },
     // {
