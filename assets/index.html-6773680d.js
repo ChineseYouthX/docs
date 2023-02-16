@@ -1,1 +1,0 @@
-import{_ as t,X as o,Y as r,a1 as e}from"./framework-b823b8b3.js";const n={};function s(a,c){return o(),r("div",null,[e(" 这是项目主页的案例。你可以在这里放置你的主体内容。 "),e(" 想要使用此布局，你需要在页面 front matter 中设置 `home: true`。 "),e(" 配置项的相关说明详见 [项目主页配置](https://theme-hope.vuejs.press/zh/guide/layout/home/)。 ")])}const _=t(n,[["render",s],["__file","index.html.vue"]]);export{_ as default};
