@@ -2,4 +2,4 @@
 User-agent:*
 Disallow:
 
-Sitemap: https://github.com/ChineseYouthX/docs/docs/sitemap.xml
+Sitemap: https://github.com/ChineseYouthX/docs/sitemap.xml
