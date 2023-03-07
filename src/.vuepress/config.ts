@@ -7,15 +7,10 @@ export default defineUserConfig({
   base: "/docs/",
 
   locales: {
-    "/zh/": {
+    "/": {
       lang: "zh-CN",
       title: "文档库",
       description: "ChineseYouthX 的文档"
-    },
-    "/": {
-      lang: "en-US",
-      title: "文档库",
-      description: "A docs for ChineseYouthX"
     }
   },
 

@@ -1,10 +1,9 @@
 ---
-title: Git
-
+title: vue-element-admin
 index: 1
 author: ChineseYouthX # 设置作者
 category:
-  - git
+  - vue-admin
 ---
 
 ## 目录

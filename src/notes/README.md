@@ -10,6 +10,9 @@ category:
 
 ## 目录
 
-- [NodeJs](nodeJs/README.md)
+- [Vue](vue/README.md)
 
 - [Git](git/README.md)
+
+- [NodeJs](node-js/README.md)
+

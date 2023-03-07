@@ -2,7 +2,7 @@
 # 这是文章的标题
 title: 环境搭建
 # 这是页面的图标
-icon: page
+# icon: page
 # 这是侧边栏的顺序
 order: 1
 # 设置作者
@@ -25,7 +25,9 @@ star: true
 # copyright: 无版权
 ---
 
-## 安装 git
+## 代码管理
+
+### 安装 git
 
 ::: info
 
@@ -33,7 +35,9 @@ star: true
 
 :::
 
-## 安装 nvm-windows
+## Node.js 管理
+
+### 安装 nvm-windows
 
 ::: info
 
@@ -41,54 +45,66 @@ star: true
 
 :::
 
-## 安装 cnpm
+## 软件包管理器
+
+### 安装 cnpm
 
 ::: info
 
-[cnpm]() 包管理工具。
+[cnpm](https://github.com/cnpm/cnpm) 包管理工具。
 
 ```bash
-npm install -g cnpm
+npm install cnpm -g
 ```
 
 :::
 
-## 安装 yarn
+### 安装 yarn
 
 ::: info
 
-[yarn]() 包管理工具。
+[yarn](https://yarn.bootcss.com/) 包管理工具。
 
 ```bash
-npm install -g yarn
+npm install yarn -g
 ```
 
 :::
 
-## 安装 pnpm
+### 安装 pnpm
 
 ::: info
 
-[pnpm]() 包管理工具。
+[pnpm](https://www.pnpm.cn/) 包管理工具。
 
 ```bash
-npm install -g pnpm
+npm install pnpm -g
 ```
 
 :::
 
-## 安装 WebStorm
+## 开发工具
+
+### 安装 WebStorm
 
 ::: info
 
-[WebStorm]() 前端开发IDE。
+[WebStorm](https://www.jetbrains.com/zh-cn/webstorm/) 前端开发IDE。
 
 :::
 
-## 安装 HBuilderX
+### 安装 VS Code
 
 ::: info
 
-[HBuilderX]() uni-app。
+[VS Code](https://code.visualstudio.com/) 代码编辑器。
+
+:::
+
+### 安装 HBuilder X
+
+::: info
+
+[HBuilder X](https://www.dcloud.io/hbuilderx.html) uni-app 开发工具。
 
 :::
